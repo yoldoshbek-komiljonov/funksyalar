@@ -22,3 +22,10 @@ console.log(nameLength('Behruz'));
 console.log(nameLength('Siroj'));
 console.log(nameLength('Dilnoza'));
 
+
+funktion countSheep(num) {
+let arr = []
+let count = 0
+if(num>){
+
+    
